@@ -19,7 +19,8 @@
 <br/>
 
 ## *System Architecture.*
-![스크린샷 2023-09-13 오후 11 21 39](https://github.com/Wisoft-Wasabi/.github/assets/95692663/0aed341b-6023-4548-b9d1-556adea0b0af)
+![wasabi-system-architecture](https://github.com/Wisoft-Wasabi/.github/assets/95692663/e9125997-6efc-424f-bbc0-7b06b334182c)
+
 
 <br/>
 
